@@ -1,3 +1,1 @@
-console.log('Hello React');
-console.log('Updated React file');
-console.log('Another change');
+console.log('Hello Himath, I am Pamuda, a collaborator')
