@@ -1,3 +1,1 @@
-console.log('Hello React');
-console.log('Updated React file');
-console.log('Another change');
+console.log("My version of index.js");
